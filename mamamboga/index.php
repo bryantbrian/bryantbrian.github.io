@@ -1,36 +1,14 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html lang="en">
 
-<html>
-	<head>
-		<title> MAMA MBOGA </title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
+<head>
+	<title>GFG- Store Data</title>
+</head>
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+<body>
+	
+		
 
-				<!-- Header -->
-					<header id="header">
-						
-					</header>
-
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li><a href="index.html">HOME PAGE</a></li>
-							
-							
-						</ul>
-						
-					</nav>
-
-				
-
-				<!-- Footer -->
 					<footer id="footer">
 						<section>
 							<form action="insert.php" method="post">
@@ -45,7 +23,7 @@
 									</div>
 									<div class="field">
 										<label for="email">Phone</label>
-										<input type="text" name="number" id="phone" placeholder="+254700000000" />
+										<input type="text" name="number" id="email" placeholder="+254700000000" />
 									</div>
 									<div class="field">
 										<label for="message">Shopping List</label>
@@ -82,22 +60,8 @@
 							</section>
 						</section>
 					</footer>
+			
 
-				<!-- Copyright -->
-					<div id="copyright">
-						
-					</div>
+</body>
 
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
 </html>
